@@ -11,6 +11,7 @@ Our project is going to look at UFO sightings in relation crime incidences in la
 - Clean up/reduce data to clean time stamps/points
 - Use Postgres for database storage
 ## Assignments
-- Data Management: Brittany, David
-- Editor: Andrew
-- Presenter: Benji
+- Data/Reporting: Brittany
+- Main Coding: Benji
+- Tables/SQL: David
+- Presenter: Andrew
